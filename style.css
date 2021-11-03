@@ -91,7 +91,7 @@ a {
 .contact-list {
     list-style: none;
     padding-left: 15px;
-    font-size: 20px;
+    font-size: 25px;
     padding-top: 30px;
 
 }
@@ -99,6 +99,5 @@ a {
     text-decoration: none;
     color: white;
     text-transform: capitalize;
-
 
 }
